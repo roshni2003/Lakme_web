@@ -9,6 +9,7 @@ body {
 .header{
   border:1px solid black;
   height:54px;
+  background: #191A1A;
 }
 .head_cont{
   border:1px solid red;
@@ -36,32 +37,47 @@ body {
 .cate{
   border:1px solid black;
   height:42px;
-  width: 154.43px;
+  width: 140px;
   float:left;
+  line-height: 40px;
 }
 .trend{
   border:1px solid black;
   height:42px;
-  width: 165.41px;
+  width: 100px;
   float:left;
+  color:white;
+  font-size: 14px;
+  font-family: "DIN Neuzeit Grotesk", sans-serif;
+  line-height: 40px;
+  
 }
 .combo{
   border:1px solid black;
   height:42px;
   width: 114.8px;
   float:left;
+  color:white;
+  font-size: 14px;
+  font-family: "DIN Neuzeit Grotesk", sans-serif;
+  line-height: 40px;
 }
 .blog{
   border:1px solid black;
   height:42px;
   width: 70.68px;
   float:left;
+  color:white;
+  font-size: 14px;
+  font-family: "DIN Neuzeit Grotesk", sans-serif;
+  line-height: 40px;
 }
 .help{
   border:1px solid black;
   height:42px;
   width: 110.1px;
   float:left;
+  line-height: 40px;
 }
 .car{
   border:1px solid black;
