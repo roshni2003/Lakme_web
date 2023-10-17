@@ -1,0 +1,89 @@
+body {
+  margin: 0;
+  
+}
+*{
+	box-sizing: border-box;
+}
+
+.header{
+  border:1px solid black;
+  height:54px;
+}
+.head_cont{
+  border:1px solid red;
+  height: 42px;
+  margin: 6px 50px;
+}
+.logo{
+  border:1px solid black;
+  height:42px;
+  width: 183px;
+  float:left;
+}
+.info{
+  border:1px solid black;
+  height:42px;
+  width: 617px;
+  float:left;
+}
+.personal{
+  border:1px solid black;
+  height:42px;
+  width: 563.2px;
+  float:left;
+}
+.cate{
+  border:1px solid black;
+  height:42px;
+  width: 154.43px;
+  float:left;
+}
+.trend{
+  border:1px solid black;
+  height:42px;
+  width: 165.41px;
+  float:left;
+}
+.combo{
+  border:1px solid black;
+  height:42px;
+  width: 114.8px;
+  float:left;
+}
+.blog{
+  border:1px solid black;
+  height:42px;
+  width: 70.68px;
+  float:left;
+}
+.help{
+  border:1px solid black;
+  height:42px;
+  width: 110.1px;
+  float:left;
+}
+.car{
+  border:1px solid black;
+  height:42px;
+  width: 30px;
+  float:right;
+}
+.person{
+  border:1px solid black;
+  height:42px;
+  width: 60px;
+  float:right;
+}
+.search{
+  border:1px solid black;
+  height:42px;
+  width: 30px;
+  float:right;
+}
+.bag{
+  border:1px solid black;
+  height:42px;
+  width: 60px;
+  float:right;
+}
